@@ -1,2 +1,3 @@
 # git_test
-trash this. for odin project only
+My first GitHub repo!
+Hello Odin!
